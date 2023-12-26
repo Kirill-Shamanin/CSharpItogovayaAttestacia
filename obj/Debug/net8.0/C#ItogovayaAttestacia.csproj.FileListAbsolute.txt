@@ -1,0 +1,14 @@
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\obj\Debug\net8.0\C#ItogovayaAttestacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\obj\Debug\net8.0\C#ItogovayaAttestacia.AssemblyInfoInputs.cache
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\obj\Debug\net8.0\C#ItogovayaAttestacia.AssemblyInfo.cs
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\obj\Debug\net8.0\C#ItogovayaAttestacia.csproj.CoreCompileInputs.cache
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\bin\Debug\net8.0\C#ItogovayaAttestacia.exe
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\bin\Debug\net8.0\C#ItogovayaAttestacia.deps.json
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\bin\Debug\net8.0\C#ItogovayaAttestacia.runtimeconfig.json
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\bin\Debug\net8.0\C#ItogovayaAttestacia.dll
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\bin\Debug\net8.0\C#ItogovayaAttestacia.pdb
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\obj\Debug\net8.0\C#ItogovayaAttestacia.dll
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\obj\Debug\net8.0\refint\C#ItogovayaAttestacia.dll
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\obj\Debug\net8.0\C#ItogovayaAttestacia.pdb
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\obj\Debug\net8.0\C#ItogovayaAttestacia.genruntimeconfig.cache
+C:\Users\elovg\Desktop\myVSC\C#ItogovayaAttestacia\obj\Debug\net8.0\ref\C#ItogovayaAttestacia.dll
